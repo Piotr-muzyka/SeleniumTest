@@ -11,6 +11,7 @@ Prepare :
 
 
 In order to run test headlessly : 
+
 export DISPLAY=:99
 
 mvn -e clean test
