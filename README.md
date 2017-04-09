@@ -4,8 +4,8 @@ Selenium test developed in order to check functioning with Xvfb and Firefox in h
 
 Test was run on CentOS 7.2.1511 
 
-Prepare : 
- yum -y install firefox Xvfb libXfont Xorg
+Prepare :  
+ yum -y install firefox Xvfb libXfont Xorg 
  Xvfb :99 -ac -screen 0 1280x1024x24 &
 
 
